@@ -5,6 +5,7 @@ package edu.pcc.cis.conversion;
  *
  * @author Charles Leonard (@orig Cara Tang)
  * @version 2018.05.01
+ * I may not have done the lab in exactly the order proscribed.
  */
 public class ConversionFunctions {
     private static final String[] MONTH_NAMES = { "", "January", "February", "March", "April",
